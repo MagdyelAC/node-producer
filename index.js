@@ -21,7 +21,7 @@ app.get('/', (req, res, next) => {
   res.send('kafka api - adsoft');
 });
 
-const run = async (username) => {
+
 //ESTE ES EL PRIMERO
 const run = async (username) => {
 
